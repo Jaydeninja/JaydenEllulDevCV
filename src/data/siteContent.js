@@ -61,7 +61,7 @@ export const siteContent = {
           { name: 'Adobe Illustrator', level: 80 },
           { name: 'Adobe Photoshop', level: 82 },
           { name: 'UI Styling', level: 84 },
-          { name: 'Visual Composition', level: 78 }
+          { name: 'Digital Media/Photography', level: 78 }
         ]
       },
       {
