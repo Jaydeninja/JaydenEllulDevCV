@@ -25,7 +25,7 @@ export const siteContent = {
     greeting: "Hello, I'm",
     displayName: 'Jayden',
     title: 'IT Multimedia Student',
-    tagline: 'Building clean, engaging front-end experiences with a motorsport-inspired visual style.',
+    tagline: 'Building clean, engaging front-end experiences with simplicity and efficiency in mind.',
     primaryCta: { label: 'View Projects', href: '#projects' },
     secondaryCta: { label: 'Contact Me', href: '#contact' }
   },
