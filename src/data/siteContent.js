@@ -143,7 +143,7 @@ export const siteContent = {
       {
         label: 'LinkedIn',
         handle: 'Jayden Ellul',
-        href: 'https://www.linkedin.com/in/jayden-ellul',
+        href: 'https://www.linkedin.com/in/jayden-ellul-29bb46341/',
         icon: 'LinkedIn'
       }
     ]

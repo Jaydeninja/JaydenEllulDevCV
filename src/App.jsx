@@ -9,11 +9,13 @@ import Achievements from './components/Achievements'
 import Contact from './components/Contact'
 import ParticlesBackground from './components/ParticlesBackground'
 import Navigation from './components/Navigation'
+import AnimatedCursor from './components/AnimatedCursor'
 import { siteContent } from './data/siteContent'
 
 function App() {
   return (
     <div className={`relative bg-gradient-to-br ${siteContent.theme.surfaceGradient} text-white`}>
+      <AnimatedCursor />
       <ParticlesBackground colors={siteContent.theme.particleColors} />
 
       <Navigation content={siteContent.navigation} />
